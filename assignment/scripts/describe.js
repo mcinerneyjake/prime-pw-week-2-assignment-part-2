@@ -43,10 +43,14 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// We declare a variable called secret that has yet to be assigned a value.
+// We declare a second variable called code that is assigned the value of 123 as a number.
+// Lines 59 through 62: We check that the variable code is equal to the number 123.
+// Because code does equal 123, the new assigned value of secret is 'super', a string,
+// and the new assigned value of code is (123 * 2), or 246.
+// Lines 64 through 66: We check that code is greater than 250. If true, we assign the value of 'duper' to secret.
+// The check is false (246 is not greater than 250), so the secret does not get the assigned value of 'duper', and keeps its initial assigned value of 'super'.
+// We console.log(secret) and see the value of 'super'.
 
 //CODE
 /*
