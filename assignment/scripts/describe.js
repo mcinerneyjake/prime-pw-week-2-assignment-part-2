@@ -72,10 +72,14 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// We declare the variable of isStudent with an assigned value of true, a boolean.
+// We declare the variable of age with an assigned value of 34, a number.
+// We declare the variable of zip with an assigned value of 55407, a number.
+// We write a conditional (if/then statement) that checks all three variables in different permutations as follows:
+// The first check (Line 90) checks if isStudent is true AND if zip is greater than 80000. This check fails according to each variable's assigned value, and is not logged in the console.
+// The second check (Line 92) checks if isStudent is false OR if age is less than 30. This check fails according to each variable's assigned value, and is not logged in the console.
+// The third check (Line 94) checks if isStudent is true. This check passes according to each variable's assigned value, and 'Welcome to Prime!' is logged in the console.
+// The fourth check (Line 96) does not log to the console because the third check passed the check and is subsequently logged to the console.
 
 //CODE
 /*
