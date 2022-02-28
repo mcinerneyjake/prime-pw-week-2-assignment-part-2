@@ -131,12 +131,15 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
+// FIX - colorOne should be set to 'blue'.
 let colorOne = 'red';
+// FIX - colorTwo should be set to 'red'.
 let colorTwo = 'blue';
 let mix = true;
 
 if (mix === true) {
   colorOne = 'purple';
+  // FIX - colorTwo = 'purple'; should be added within the if statement.
 }
 */
 
