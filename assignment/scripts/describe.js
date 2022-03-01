@@ -139,7 +139,7 @@ let mix = true;
 
 if (mix === true) {
   colorOne = 'purple';
-  // FIX - colorTwo = 'purple'; should be added within the if statement.
+  // FIX - colorTwo = 'purple'; should be added directly under line 141.
 }
 */
 
